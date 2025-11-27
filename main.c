@@ -125,4 +125,3 @@ void d4(int *order, FILE *fp) {
         }
     }
 }
-
